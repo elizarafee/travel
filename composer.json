@@ -1,0 +1,13 @@
+{
+    "name": "elizarafee/travel",
+    "description": "Testing BoomCMS",
+    "type": "boomcms-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliza Ahmed",
+            "email": "elizarafee@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
